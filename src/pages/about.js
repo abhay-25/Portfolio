@@ -91,7 +91,7 @@ const about = () => {
             </div>
 
             <div className="col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3">
-              <div
+              {/* <div
                 className="flex flex-col items-end
                justify-center xl:items-center"
               >
@@ -104,7 +104,7 @@ const about = () => {
                 >
                   satisfied client
                 </h2>
-              </div>
+              </div> */}
 
               <div
                 className="flex flex-col items-end

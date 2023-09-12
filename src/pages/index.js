@@ -46,7 +46,7 @@ export default function Home() {
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
-                  href="/Abhay_Suresh_Nimje.pdf"
+                  href="https://drive.google.com/file/d/1hBg2x0PeOW2TLNeiRpM7jfX2zM23INSq/view?usp=sharing"
                   target="_blank"
                   className="flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg font-semibold
                   hover:bg-light hover:text-dark border-solid border-transparent hover:border-dark border-2
