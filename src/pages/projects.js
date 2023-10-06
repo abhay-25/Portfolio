@@ -171,8 +171,8 @@ It is responsive and mobile-friendly, so it can be viewed on any device."
                 img={project4}
                 summary="The website includes a variety of sections, including: About Me, My Projects, Articles, My Skills and Experience.
 It is responsive and mobile-friendly, so it can be viewed on any device."
-                link="/"
-                github="/"
+                link="https://github.com/abhay-25/Memories"
+                github="https://github.com/abhay-25/Memories"
                 type="Featured Project"
               />
             </div>
